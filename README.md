@@ -1,2 +1,3 @@
 # python_tutor
-python tutorial example
+1. ex01.py
+ - Hello, World
